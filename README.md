@@ -16,3 +16,4 @@ This is a repository containing links to my projects done during my Master of Sc
 - [Simple Classifier Exploration](https://tahsinjahinkhalid-model-classifier-webapp-main1-y7m242.streamlit.app/)
 - [Daily Stock Price Dashboard (Web App)](https://tahsinjahinkhalid-stock-price-dashboard-stock-price-dash-urfyb3.streamlit.app/)
 - [Loan Data Analysis with KNIME](https://hub.knime.com/-/spaces/-/latest/~A9fM0D1W3tnm2CbL/)
+- [Data Science Salaries Analysis with SQL](https://deepnote.com/workspace/msbaprojects-82f43c7e-ae0b-4ed4-bafe-15824492fea5/project/Data-Science-Jobs-SQL-cfea113d-2a0d-4475-a4a7-fb32eb7822bb/notebook/Dataset%20Analysis%20with%20SQL-b5fcd2d768bd42138534d6fa54330ca0)
