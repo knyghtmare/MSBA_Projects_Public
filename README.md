@@ -20,3 +20,4 @@ This is a repository containing links to my projects done during my Master of Sc
 - [Titanic Survivor Analysis](https://github.com/tahsinjahinkhalid/titanic_survivor_analysis)
 - [Facebook Marketing Dashboard](https://github.com/tahsinjahinkhalid/FB_marketing_dashboard_app)
 - [Data Science Salaries Tableau Dashboard](https://public.tableau.com/app/profile/tahsin.jahin.khalid/viz/DataScienceSalariesVisualization/DataScienceSalaries)
+- [Top 50 Fast Food Franchises USA Dashboard](https://public.tableau.com/views/Top50FastFoodFranchisesUSADashboard/Top50FastFoodUSA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
