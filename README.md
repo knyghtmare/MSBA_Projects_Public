@@ -21,3 +21,5 @@ This is a repository containing links to my projects done during my Master of Sc
 - [Facebook Marketing Dashboard](https://github.com/tahsinjahinkhalid/FB_marketing_dashboard_app)
 - [Data Science Salaries Tableau Dashboard](https://public.tableau.com/app/profile/tahsin.jahin.khalid/viz/DataScienceSalariesVisualization/DataScienceSalaries)
 - [Top 50 Fast Food Franchises USA Dashboard](https://public.tableau.com/views/Top50FastFoodFranchisesUSADashboard/Top50FastFoodUSA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- Facebook Marketing Campaign Dashboard [View Web App](https://fbmarketingdashboardapp-tahsinjahinkhalid.streamlit.app/) [Github Repository](https://github.com/tahsinjahinkhalid/FB_marketing_dashboard_app)
+- PyGWalker Demo Web App on Streamlit [View Web App](https://pygwalkerdemowebapp-tjk.streamlit.app/) [Github Repository](https://github.com/tahsinjahinkhalid/pygwalker_demo_web_app)
