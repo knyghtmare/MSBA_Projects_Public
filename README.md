@@ -28,5 +28,5 @@ This is a repository containing links to my projects done during my Master of Sc
   - [View Web App](https://pygwalkerdemowebapp-tjk.streamlit.app/) 
   - [Github Repository](https://github.com/tahsinjahinkhalid/pygwalker_demo_web_app)
 - Software Developer Salary Exploration and Prediction 
-  - [View Web App]() 
-  - [Github Repository]()
+  - [View Web App](https://developer-salary-prediction-web-app-tahsinjahinkhalid.streamlit.app/)
+  - [Github Repository](https://github.com/tahsinjahinkhalid/developer-salary-prediction-web-app)
