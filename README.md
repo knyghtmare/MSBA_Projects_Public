@@ -30,3 +30,9 @@ This is a repository containing links to my projects done during my Master of Sc
 - Software Developer Salary Exploration and Prediction 
   - [View Web App](https://developer-salary-prediction-web-app-tahsinjahinkhalid.streamlit.app/)
   - [Github Repository](https://github.com/tahsinjahinkhalid/developer-salary-prediction-web-app)
+  - [Analysis of NYC Public School Test Scores](https://github.com/tahsinjahinkhalid/NYC_public_schools_SQL)
+  - [Sample Employee Database SQL Exploration](https://github.com/tahsinjahinkhalid/employee_db_SQL_EDA/)
+  - Finance Stock Dashboard
+    - [Github Repository](https://github.com/tahsinjahinkhalid/finance_stocks_dashboard/tree/main)
+    - [View Web App](https://financestocksdashboard-tjk.streamlit.app/)
+  - [A/B Testing in Python](https://github.com/tahsinjahinkhalid/ab_testing_python)
