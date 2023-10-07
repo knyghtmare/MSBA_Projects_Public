@@ -36,3 +36,4 @@ This is a repository containing links to my projects done during my Master of Sc
   - [Github Repository](https://github.com/tahsinjahinkhalid/finance_stocks_dashboard/tree/main)
   - [View Web App](https://financestocksdashboard-tjk.streamlit.app/)
 - [A/B Testing in Python](https://github.com/tahsinjahinkhalid/ab_testing_python)
+- [Multi-Class Classification](https://github.com/tahsinjahinkhalid/multi_class_classification_pytorch_huggingface)
