@@ -37,3 +37,5 @@ This is a repository containing links to my projects done during my Master of Sc
   - [View Web App](https://financestocksdashboard-tjk.streamlit.app/)
 - [A/B Testing in Python](https://github.com/tahsinjahinkhalid/ab_testing_python)
 - [Multi-Class Classification](https://github.com/tahsinjahinkhalid/multi_class_classification_pytorch_huggingface)
+- [Countrywise Production-based CO2 Emissions Dashboard](https://public.tableau.com/app/profile/tahsin.jahin.khalid/viz/CountrywiseProducted-BasedCO2EmissionsDashboard/CountrywiseProduction-BasedCO2EmissionsDashboard)
+- [Credit Card Approval Classification](https://github.com/tahsinjahinkhalid/Credit_Card_Approval_Classification)
