@@ -40,3 +40,4 @@ This is a repository containing links to my projects done during my Master of Sc
 - [Countrywise Production-based CO2 Emissions Dashboard](https://public.tableau.com/app/profile/tahsin.jahin.khalid/viz/CountrywiseProducted-BasedCO2EmissionsDashboard/CountrywiseProduction-BasedCO2EmissionsDashboard)
 - [Credit Card Approval Classification](https://github.com/tahsinjahinkhalid/Credit_Card_Approval_Classification)
 - [Data Professional Survey Dashboard Report](https://github.com/tahsinjahinkhalid/data_professional_survey_dashboard_report)
+- [Space Missions Dashboard Report](https://github.com/tahsinjahinkhalid/space_missions_dashboard_project)
