@@ -42,3 +42,4 @@ This is a repository containing links to my projects done during my Master of Sc
 - [Data Professional Survey Dashboard Report](https://github.com/tahsinjahinkhalid/data_professional_survey_dashboard_report)
 - [Space Missions Dashboard Report](https://github.com/tahsinjahinkhalid/space_missions_dashboard_project)
 - [SMS Classification Project](https://github.com/tahsinjahinkhalid/SMS_classification_project)
+- [Palmer Penguins EDA Project](https://github.com/tahsinjahinkhalid/palmer_penguin_EDA_project)
