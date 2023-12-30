@@ -5,6 +5,7 @@ This is a repository containing links to my projects done during my Master of Sc
 ## By: Tahsin Jahin Khalid
 
 ## Projects
+
 - [My Portfolio Website](https://tahsinjahinkhalid.github.io/)
 - [Customer Segmentation](https://github.com/tahsinjahinkhalid/Customer_Segmentation/tree/main)
 - [NLP Project: Native/Non-Native Classification](https://deepnote.com/workspace/msbaprojects-82f43c7e-ae0b-4ed4-bafe-15824492fea5/project/NLP-Native-Non-Native-Classifier-315ffc09-5384-462a-aec5-435b63338115/notebook/Native_Non_Native-b16ecb18271843069389a0b9d42407c9)
