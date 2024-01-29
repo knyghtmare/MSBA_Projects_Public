@@ -44,3 +44,4 @@ This is a repository containing links to my projects done during my Master of Sc
 - [Space Missions Dashboard Report](https://github.com/tahsinjahinkhalid/space_missions_dashboard_project)
 - [SMS Classification Project](https://github.com/tahsinjahinkhalid/SMS_classification_project)
 - [Palmer Penguins EDA Project](https://github.com/tahsinjahinkhalid/palmer_penguin_EDA_project)
+- [NLP Skin Disease Classification](https://github.com/tahsinjahinkhalid/NLP_skin_disease_classification)
